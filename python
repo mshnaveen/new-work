@@ -1,0 +1,9 @@
+# Input two numbers
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+# Add them
+sum_result = a + b
+
+# Display the result
+print("Sum =", sum_result)
